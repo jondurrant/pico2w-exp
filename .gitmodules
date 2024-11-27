@@ -1,0 +1,3 @@
+[submodule "lib/RPIPicoWWSClient-RTOS"]
+	path = lib/RPIPicoWWSClient-RTOS
+	url = https://github.com/jondurrant/RPIPicoWWSClient-RTOS
