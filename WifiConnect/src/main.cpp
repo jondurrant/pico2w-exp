@@ -1,7 +1,7 @@
 /*
  * main.cpp
  *
- * Blink Pico 2 W LED onboard LED from within FreeRTOS
+ * Under FreeRTOS Connect to Wifi AP
  *
  *  Created on: 27-Nov-2024
  *      Author: jondurrant
